@@ -9,3 +9,4 @@ project ứng dụng mobile trên smartphone:
 - kích vào mỗi icon sẽ hiển thị nhưng câu truyện liên quan đền từng mục
 
 - đây là 1 ứng dụng đơn giản trong quá trình học lập trình di động
+ [Github](https://github.com)
