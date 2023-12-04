@@ -1,12 +1,20 @@
-## android studio
-project ứng dụng mobile trên smartphone:
-1. mục đích ứng dụng
-- ứng dụng cung cấp thông tin về những câu truyện
-- thông tin được phân loại thành từng mục
+# Application mobile Android story
+This is an application on the smartphone and use Android system
 
-2. chức năng ứng dụng
-- ứng dụng có icon tương ứng với câu chuyện
-- kích vào mỗi icon sẽ hiển thị nhưng câu truyện liên quan đền từng mục
+### About
+- This application allows users to read short stories on smartphone devices, users access the application and all story genres and story titles. The results will display the story to the user
 
-- đây là 1 ứng dụng đơn giản trong quá trình học lập trình di động
+- Note: This is just a simple application for learning purposes
+
+### Lenguage used:
+- Java
+- SDK : API 31 ("S"; Android 12.0)
+### IDE used:
+- Android studio
+
+### Some Screenshots for the project:
 - <img src="https://github.com/thangtran180492/Application-mobile-tell-story-funny/blob/main/photo.jpg">
+
+<bold>Thanks...</bold>
+<br/>Project personal<br/>
+<b>Viet Hung (Sai)</b>
